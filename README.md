@@ -24,3 +24,5 @@ CAPITALS_CHANNEL_ID = [1288433128733675560, 1365421013264892064]
 CITIES_CHANNEL_ID = [1381325029857300550]
 PRIVATE_THREADS_PARENT_ID = 1292058135250337874```
 with your own channels; **NOTE: don't forget to modify the channels in the "if message.content.startswith" too!**
+
+## I also downloaded some images on the server, like for greek islands and some us flags, so you'll have to do the same
