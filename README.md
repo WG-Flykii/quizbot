@@ -25,4 +25,4 @@ CITIES_CHANNEL_ID = [1381325029857300550]
 PRIVATE_THREADS_PARENT_ID = 1292058135250337874```
 with your own channels; **NOTE: don't forget to modify the channels in the "if message.content.startswith" too!**
 
-## I also downloaded some images on my own server server, like for greek islands and some us flags, so either you can just put the wikipedia link of the image in image_url, or you'll have to do the same
+## I also downloaded some images on my own server, like for greek islands and some us flags, so either you can just put the wikipedia link of the image in image_url, or you'll have to do the same
